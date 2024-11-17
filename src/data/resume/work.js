@@ -17,10 +17,9 @@ const work = [
     position: 'Java Backend Engineer',
     url: 'https://hyperoptic.com',
     startDate: '2023-01-19',
-    summary: 'Hyperoptic company has its own (in-house) project that I have been actively working on daily since January 2023. Given that the software has been developed over the years to meet the needs of Hyperoptic’s service users, it has been built using a variety of tools and frameworks. My daily work involves addressing user and agent requests through programming implementations, which includes working with relational databases, efficient Java programming, Kafka, Jasper, Jenkins, developing integrations and solutions for communication with other services, etc. In addition to the programming aspect, working on such a project requires strong teamwork and communication with colleagues, which is a crucial factor for business success.',
+    summary: 'Hyperoptic Platform',
     highlights: [
-      'Built and scaled engineering team, emphasizing diversity and open-source contribution',
-      'Established key partnerships with AI research institutions and tech companies',
+      'Hyperoptic company has its own (in-house) project that I have been actively working on daily since January 2023. Given that the software has been developed over the years to meet the needs of Hyperoptic’s service users, it has been built using a variety of tools and frameworks. My daily work involves addressing user and agent requests through programming implementations, which includes working with relational databases, efficient Java programming, Kafka, Jasper, Jenkins, developing integrations and solutions for communication with other services, etc. In addition to the programming aspect, working on such a project requires strong teamwork and communication with colleagues, which is a crucial factor for business success.',
     ],
   },
   {
