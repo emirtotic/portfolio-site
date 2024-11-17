@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <title>Page Not Found</title>
-  <meta http-equiv="refresh" content="0; URL='https://emirtotic.github.io/portfolio-site/'" />
 </head>
 <body>
   <script>
-    window.location.replace(window.location.origin + '/portfolio-site');
+    const pathname = window.location.pathname.replace('/portfolio-site', '');
+    window.location.replace(window.location.origin + '/portfolio-site/index.html?redirect=' + pathname);
   </script>
 </body>
 </html>
