@@ -22,9 +22,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Emir. I am a{' '}
-        <a href="https://icme.stanford.edu/">Software engineer</a> from Belgrade, Serbia. Currently, I
-        am working as a Java Backend Developer at <a href="https://hyperoptic.com">Hyperoptic</a>.
+        Hi, I&apos;m Emir. I am a Software engineer based in Belgrade, Serbia. Currently, I
+        am working as a Java Backend Developer at <a href="https://hyperoptic.com" target="_blank" rel="noopener noreferrer">Hyperoptic</a>.
       </p>
       <ul className="actions">
         <li>
