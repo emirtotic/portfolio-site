@@ -19,6 +19,7 @@ const References = () => (
           <li>NoSQL Databases</li>
           <li>MongoDB</li>
           <li>PostgreSQL</li>
+          <li>Neo4j</li>
           <li>Kafka</li>
           <li>REST Integrations</li>
           <li>Git / GitHub</li>
@@ -26,7 +27,9 @@ const References = () => (
           <li>Jira / AGILE</li>
           <li>Maven</li>
           <li>Docker</li>
-          <li>Eclipse, IntelliJ, NetBeans</li>
+          <li>Rust</li>
+          <li>Rust</li>
+          <li>Axum, Tokio, Tonic</li>
         </ul>
       <Link to="/contact">
         <h3>For more details, feel free to contact me</h3>
