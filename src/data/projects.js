@@ -7,7 +7,7 @@ const data = [
     image: '/images/projects/hyperoptic.jpg',
     date: '2023-01-19',
     desc:
-      'Hyperoptic company has its own (in-house) project that I have been actively working on daily since January 2023. Given that the software has been developed over the years to meet the needs of Hyperoptic’s service users, it has been built using a variety of tools and frameworks. My daily work involves addressing user and agent requests through programming implementations, which includes working with relational databases, efficient Java programming, Kafka, Jasper, Jenkins, developing integrations and solutions for communication with other services, etc. In addition to the programming aspect, working on such a project requires strong teamwork and communication with colleagues, which is a crucial factor for business success.',
+      'Since January 2023, I’ve been actively contributing to Hyperoptic’s in-house platform, which supports billing, customer services, and technical support operations. The project spans a wide range of technologies developed over the years, and my daily responsibilities include backend development using Java and SQL, optimizing system performance, maintaining Kafka-based communication pipelines, and building custom integrations with third-party services. I also contribute to document generation using Jasper, CI/CD processes through Jenkins, and internal tools that support our customer support agents. Collaboration with product and technical teams is key to delivering scalable and reliable features within this large-scale system.',
   },
   {
     title: 'Enetel Solutions - QIIS Project',
