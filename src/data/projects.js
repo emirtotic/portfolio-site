@@ -16,7 +16,7 @@ const data = [
     image: '/images/projects/enetel-solutions.png',
     date: '2022-07-01',
     desc:
-      'Developing various solutions for health care monitoring, such as calculating health care indicators based on data retrieved through integration with a partner companys system, implementing Spring Security with a modified approach, setting up reporting solutions for Excel and PDF formats using the Jasper platform, covering all functionalities with unit tests, etc. Technologies used: Java 11, Spring Boot, Spring Security, PostgreSQL, Mongo, MapStruct service, Jasper reports.',
+      'At Enetel Solutions, I contributed to the development of QIIS — a platform for monitoring healthcare quality indicators. My work included implementing backend logic for calculating indicators based on data from partner systems, developing a customized Spring Security layer, and creating dynamic reports in both Excel and PDF formats using JasperReports. The project also involved writing unit tests to ensure robustness and working with technologies like Java 11, Spring Boot, PostgreSQL, MongoDB, MapStruct, and Jasper.',
   },
   {
     title: 'Enetel Solutions - UBS Project',
@@ -25,7 +25,7 @@ const data = [
     image: '/images/projects/enetel-solutions.png',
     date: '2022-01-01',
     desc:
-      'Setup and development of solutions for the UBS (Association of SerbianBanks) loan refinancing application. Among all implementations and workflows, I would highlight solutions for creating and validating loan refinancing requests, implementing solutions for processing and validating loan refinancing requests, implementing Spring Security, working with documents on the Alfresco platform, designing and creating Jasper reports, communicating with clients via email, etc. Work on this project includes communication with the PostgreSQL database, Java 11, Spring Boot, Spring Security, Jasper reports, and the Alfresco document platform.',
+      'As part of the UBS refinancing project for the Association of Serbian Banks, I worked on implementing and validating backend workflows for processing loan requests. This included integrating Spring Security for secure access, handling documents using the Alfresco platform, and generating dynamic reports with JasperReports. I also communicated directly with clients to clarify requirements and business logic. The stack included Java 11, Spring Boot, PostgreSQL, Alfresco, and JasperReports.',
   },
   {
     title: 'DIB Travel',
@@ -34,7 +34,7 @@ const data = [
     image: '/images/projects/dib.png',
     date: '2020-11-01',
     desc:
-      'As a junior developer at my first job from November 2020 to January 2022, I participated in developing various solutions for the integration of flights in the in-house DFS (Dib Flight Service) project. This included new functionalities for flight and airline ticket reservations, such as seat reservations, baggage, ticket preparation and printing, additional benefits for flights depending on the class, etc. The work on this service involved communication with databases as well as gathering data from third-party services through integrations with our partners systems. The technologies used were Java 11, Spring Boot, Reactive Spring, MapStruct service, MySQL, MongoDB, Unit tests, etc.',
+      'At DIB Travel, I started my career as a junior backend developer on the in-house DFS (Dib Flight Service) platform. I contributed to features such as flight and ticket reservations, seat selection, baggage management, and class-based perks. The role involved integrating with third-party providers, building REST APIs, and managing data using MySQL and MongoDB. The stack included Java 11, Spring Boot, Reactive Spring, MapStruct, and unit testing tools.',
   },
   {
     title: 'PERSONAL PROJECTS',
@@ -43,7 +43,7 @@ const data = [
     image: '/images/projects/git.jpg',
     date: '2025-01-01',
     desc:
-      'As a highly creative and proactive individual, I am constantly learning new skills and gaining knowledge by working on personal projects. Feel free to explore much of this work on my GitHub profile.',
+      'As a proactive and curious developer, I regularly engage in personal projects to sharpen my skills and experiment with new technologies. One of my key projects is a full-featured aviation management system built using Spring Boot, Kafka, MySQL, and JasperReports, designed with a microservice architecture. You can explore more of my work on GitHub.',
   },
 ];
 
