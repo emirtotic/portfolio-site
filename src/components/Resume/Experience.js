@@ -13,7 +13,7 @@ const Experience = ({ data }) => (
       <Job data={job} key={`${job.name}-${job.position}`} />
     ))}
   </div>
-);
+); 
 
 Experience.propTypes = {
   data: PropTypes.arrayOf(

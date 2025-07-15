@@ -1,6 +1,8 @@
 # Intro
 
-I am a passionate programmer with an interest in technology that has lasted since childhood. Combining knowledge in programming with experience in music and sports, I am developing as a professional who values teamwork and perseverance. I graduated in Computer Science and currently work as a software engineer at Hyperoptic in Belgrade. I have 4 years of experience as a Java developer and continuously invest in my education through further training in Java programming and hands-on projects. My goal is to find a position that will allow me further growth and the opportunity to apply my skills in a professional environment.
+I’m a dedicated software engineer with a long-standing passion for technology, nurtured since childhood. With a background in both music and sports, I bring discipline, creativity, and resilience into my professional life.
+I hold a degree in Computer Science and currently work at Hyperoptic in Belgrade, where I contribute to the development of robust internal systems. Over the past 5+ years, I’ve specialized in backend development using Java (Spring Boot), with a growing focus on Rust for high-performance applications.
+I’m committed to continuous learning through both formal training and hands-on experience. My goal is to join a team where I can keep evolving technically, contribute to meaningful projects, and apply my skills in a dynamic, product-focused environment.
 
 # Some History
 
