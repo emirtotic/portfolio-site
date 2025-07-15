@@ -20,7 +20,7 @@ const data = [
   //   icon: faFacebookF,
   // },
   {
-    link: 'https://www.instagram.com/emir.totic/',
+    link: 'https://www.instagram.com/mr.totic/',
     label: 'Instagram',
     icon: faInstagram,
   },
