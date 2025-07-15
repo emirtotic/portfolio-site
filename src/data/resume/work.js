@@ -19,7 +19,7 @@ const work = [
     startDate: '2023-01-19',
     summary: 'Hyperoptic Platform',
     highlights: [
-      'Hyperoptic company has its own (in-house) project that I have been actively working on daily since January 2023. Given that the software has been developed over the years to meet the needs of Hyperoptic’s service users, it has been built using a variety of tools and frameworks. My daily work involves addressing user and agent requests through programming implementations, which includes working with relational databases, efficient Java programming, Kafka, Jasper, Jenkins, developing integrations and solutions for communication with other services, etc. In addition to the programming aspect, working on such a project requires strong teamwork and communication with colleagues, which is a crucial factor for business success.',
+      'At Hyperoptic, I worked on the company’s core platform used for managing customer services, billing, and support operations. I developed and maintained backend services in Java, optimized MySQL queries, and contributed to the event-driven architecture using Kafka. I created internal APIs for seamless communication between billing, provisioning, and support modules, and integrated JasperReports for dynamic PDF generation of contracts, invoices, and summaries. Additionally, I built backend features to support CRM agents with issue tracking, escalations, and service adjustments. I collaborated closely with product, QA, and DevOps teams, and participated in CI/CD processes using Jenkins. My work included ongoing refactoring and architectural improvements to enhance system performance.',
     ],
   },
   {
@@ -30,7 +30,7 @@ const work = [
     endDate: '2023-01-01',
     summary: 'Platform for monitoring health care quality indicators - QIIS Project',
     highlights: [
-      'Developing various solutions for health care monitoring, such as calculating health care indicators based on data retrieved through integration with a partner companys system, implementing Spring Security with a modified approach, setting up reporting solutions for Excel and PDF formats using the Jasper platform, covering all functionalities with unit tests, etc. Technologies used: Java 11, Spring Boot, Spring Security, PostgreSQL, Mongo, MapStruct service, Jasper reports.',
+      'I contributed to the development of QIIS, a platform for monitoring healthcare quality indicators. My responsibilities included implementing backend services in Java (Spring Boot) to calculate healthcare metrics based on data from external partner systems. I customized authentication flows using Spring Security, implemented Excel and PDF reporting via JasperReports, and used PostgreSQL and MongoDB for storage. I applied MapStruct for DTO mapping and maintained unit test coverage to ensure code reliability.',
     ],
   },
   {
@@ -41,7 +41,7 @@ const work = [
     endDate: '2022-07-01',
     summary: 'Platform for loan refinancing - UBS Project (January 2022 - July 2022)',
     highlights: [
-      'Setup and development of solutions for the UBS (Association of SerbianBanks) loan refinancing application. Among all implementations and workflows, I would highlight solutions for creating and validating loan refinancing requests, implementing solutions for processing and validating loan refinancing requests, implementing Spring Security, working with documents on the Alfresco platform, designing and creating Jasper reports, communicating with clients via email, etc. Work on this project includes communication with the PostgreSQL database, Java 11, Spring Boot, Spring Security, Jasper reports, and the Alfresco document platform.',
+      'At Enetel Solutions, I worked on backend development for the UBS loan refinancing platform, used by the Association of Serbian Banks. My responsibilities included implementing core workflows for creating and validating refinancing requests, integrating Spring Security for authentication and authorization, and working with the Alfresco platform for document management. I also developed PDF reports using JasperReports and maintained regular communication with clients to clarify requirements and ensure accurate business flow implementation. The system was built with Java 11, Spring Boot, PostgreSQL, and Alfresco, following clean architecture principles.',
     ],
   },
   {
@@ -52,7 +52,7 @@ const work = [
     endDate: '2022-01-01',
     summary: 'Platform for corporate travel',
     highlights: [
-      'As a junior developer at my first job from November 2020 to January 2022, I participated in developing various solutions for the integration of flights in the in-house DFS (Dib Flight Service) project. This included new functionalities for flight and airline ticket reservations, such as seat reservations, baggage, ticket preparation and printing, additional benefits for flights depending on the class, etc. The work on this service involved communication with databases as well as gathering data from third-party services through integrations with our partners systems. The technologies used were Java 11, Spring Boot, Reactive Spring, MapStruct service, MySQL, MongoDB, Unit tests, etc.',
+      'At DIB Travel, I contributed to the Dib Flight Service platform for airline reservations. I implemented features such as seat selection, baggage handling, and ticket generation. My work involved third-party integrations for flight data, building API services, and managing data with MySQL and MongoDB. The backend was developed using Java 11, Spring Boot, and Reactive Spring, with MapStruct for mapping and unit testing to ensure system stability.',
     ],
   },
 ];
