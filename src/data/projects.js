@@ -37,7 +37,25 @@ const data = [
       'At DIB Travel, I started my career as a junior backend developer on the in-house DFS (Dib Flight Service) platform. I contributed to features such as flight and ticket reservations, seat selection, baggage management, and class-based perks. The role involved integrating with third-party providers, building REST APIs, and managing data using MySQL and MongoDB. The stack included Java 11, Spring Boot, Reactive Spring, MapStruct, and unit testing tools.',
   },
   {
-    title: 'PERSONAL PROJECTS',
+    title: 'Mood Tracker',
+    subtitle: 'Track, Understand & Improve Your Mental Well-being',
+    link: 'https://moodtracker-app-production.up.railway.app',
+    image: '/images/projects/moodtracker.jpeg',
+    date: '2025-08-01',
+    desc:
+      'Mood Tracker is a Java + Spring Boot application that allows users to track their daily moods and emotions, identify behavioral patterns, and receive AI-driven recommendations to improve their mental well-being. The project uses MySQL for data storage, Kafka for event-driven notifications, MapStruct for DTO mapping, and Spring AI for mood analysis and generating personalized suggestions. The frontend is built with React, providing a responsive and interactive interface for users to log and visualize their moods. The application is fully Dockerized and live on Railway, demonstrating how complex backend functionalities can be integrated into real-world applications with a focus on security, privacy, and scalability.',
+  },
+  {
+    title: 'Status Pulse',
+    subtitle: 'Minimalistic, Fast & Reliable API Monitoring',
+    link: 'https://statuspulse.up.railway.app/',
+    image: '/images/projects/statuspulse.jpeg',
+    date: '2025-07-14',
+    desc:
+      'StatusPulse is a lightweight API monitoring SaaS built in Rust that helps developers, freelancers, and indie makers keep track of their services. It performs periodic health checks, sends instant email alerts via SendGrid, and logs response times and uptime percentages. The frontend is rendered with Tera templates for a fast and simple dashboard experience. The backend is fully async with Tokio, MySQL (via SQLx), and background workers handling monitoring cycles efficiently. The application is Dockerized and live on Railway, demonstrating how performant and scalable Rust applications can be deployed for real-world usage with a focus on security, reliability, and developer experience.',
+  },
+  {
+    title: 'MORE PERSONAL PROJECTS',
     subtitle: 'Personal projects',
     link: 'https://github.com/emirtotic',
     image: '/images/projects/git.jpg',
