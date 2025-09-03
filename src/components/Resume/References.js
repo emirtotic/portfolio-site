@@ -11,23 +11,27 @@ const References = () => (
         <li>Spring Framework</li>
         <li>Spring Boot & MVC</li>
         <li>Spring Security</li>
-        <li>Spring REST</li>
+        <li>Spring AI</li>
         <li>Reactive Spring</li>
+        <li>Unit & Integration Testing</li>
         <li>Microservices</li>
         <li>Hibernate</li>
+        <li>MapStruct</li>
         <li>MySQL Database</li>
         <li>NoSQL Databases</li>
         <li>MongoDB</li>
         <li>PostgreSQL</li>
+        <li>Flyway / Liquibase</li>
         <li>Neo4j</li>
         <li>Kafka</li>
-        <li>REST Integrations</li>
+        <li>Event-driven architecture</li>
+        <li>CI/CD</li>
+        <li>REST & gRPC Integrations</li>
         <li>Git / GitHub</li>
         <li>Bitbucket</li>
         <li>Jira / AGILE</li>
         <li>Maven</li>
         <li>Docker</li>
-        <li>Rust</li>
         <li>Rust</li>
         <li>Axum, Tokio, Tonic</li>
       </ul>
