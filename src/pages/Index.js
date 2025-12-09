@@ -7,7 +7,7 @@ const Index = () => (
   <Main
     description={
       'Emir Totić personal website. '
-      + 'Software Developer based in Belgrade, Serbia.'
+      + 'Hi, I’m Emir - a backend engineer specializing in Java, Spring Boot, and distributed systems. I work on transaction-heavy, high-reliability platforms, and I enjoy building systems where performance, stability, and clean architecture truly matter.'
     }
   >
     <article className="post" id="index">
@@ -17,7 +17,7 @@ const Index = () => (
             <Link to="/">Welcome to my portfolio site</Link>
           </h2>
           <p>
-            I’m thrilled to have you here, and I invite you to explore my site.
+            Here you’ll find a selection of my work, background, and experience.
           </p>
         </div>
       </header>
