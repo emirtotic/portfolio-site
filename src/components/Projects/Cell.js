@@ -10,7 +10,7 @@ const Cell = ({ data }) => (
           <a href={data.link} target="_blank" rel="noopener noreferrer">{data.title}</a>
         </h3>
         <time className="published">
-          {dayjs(data.date).format('MMMM, YYYY')}
+          since {dayjs(data.date).format('MMMM, YYYY')}
         </time>
       </header>
       <a href={data.link} className="image" target="_blank" rel="noopener noreferrer">
@@ -28,7 +28,7 @@ Cell.propTypes = {
     title: PropTypes.string.isRequired,
     link: PropTypes.string,
     image: PropTypes.string.isRequired,
-    date: PropTypes.string.isRequired,
+    date: PropTypes.string,
     desc: PropTypes.string.isRequired,
   }).isRequired,
 };

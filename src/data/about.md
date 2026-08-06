@@ -1,28 +1,46 @@
 # Intro
 
-I’m a backend-focused software engineer with 5+ years of professional experience designing and building scalable, production-grade systems. My core expertise is in Java and Spring Boot, with additional hands-on experience in Rust for performance-critical applications.
+I’m a backend software engineer with 6+ years of professional experience building and maintaining enterprise applications, backend services, and external system integrations.
+<br />
+<br />
+My primary expertise is in Java and Spring Boot, with hands-on experience working with REST APIs, microservices, Kafka, relational databases, and production-critical business workflows. I also have additional experience with Rust through backend integrations involving transactional systems and external providers.
 
-With a background in both music and sports, I bring strong discipline, creativity, and resilience into my engineering work. I enjoy solving complex backend problems, working on systems where reliability, performance, and clean architecture truly matter, and continuously improving both technically and professionally.
+I enjoy working on backend systems where reliability, maintainability, clear business logic, and stable integrations are essential. I value pragmatic engineering, clean code, and solutions that are designed around real business requirements rather than unnecessary complexity.
+<br />
+<br />
+Before moving fully into software engineering, I spent many years working professionally in music. That background shaped the discipline, consistency, creativity, and attention to detail that I now bring to my engineering work.
 
-I’m deeply committed to continuous learning through real-world projects and self-driven development. My goal is to be part of a product-driven engineering team where I can contribute to meaningful systems, grow further as an engineer, and help build reliable platforms used at scale.
+I’m continuously improving my knowledge through practical projects, technical study, and hands-on problem solving. I’m especially interested in opportunities where I can contribute to meaningful backend systems, take ownership of features, and continue developing as a senior engineer within a strong engineering team.
 
-# Some History
+# Professional Background
 
-I hold a Bachelor’s degree in Computer Science, with a strong academic foundation in computer systems and software engineering. My professional journey began with intensive hands-on training in Java backend development, which quickly led to my first role as a software engineer. Since then, I’ve worked across multiple domains, including:
-             
-- Telecom systems (CRM, provisioning, billing platforms)
-- Healthcare and banking software
-- Travel and reservation platforms
-- Online gaming and real-time transaction systems
+I hold a Bachelor’s degree in Computer Science, with an academic foundation in software engineering, computer systems, and application development.
+<br />
+<br />
 
-Throughout these projects, I’ve focused on building REST and gRPC APIs, microservices, event-driven systems with Kafka, database-driven business logic, and reporting solutions, always with an emphasis on stability, maintainability, and long-term system reliability. Working across different industries helped me develop strong communication skills, team collaboration, and adaptability, which I consider just as important as technical excellence.
+My professional career started with focused Java backend training, followed by my first software engineering role. Since then, I’ve contributed to projects across several industries, including:
 
-# I Like
+- Telecom, CRM, provisioning, and billing systems
+- Banking and financial software
+- Healthcare monitoring platforms
+- Travel and reservation systems
+- Online gaming and transactional wallet integrations
 
-- Programming & backend architecture
-- Playing my instruments
-- Gym & Workout
-- Traveling and exploring new places and cultures
-- Aviation and everything about planes
+Across these projects, I have worked on backend services, REST and gRPC APIs, external system integrations, Kafka-based communication, database-driven business logic, reporting features, and production support.
+
+My experience includes working with Java, Spring Boot, Spring MVC, Spring Security, JPA and Hibernate, Kafka, PostgreSQL, MySQL, MongoDB, Maven, Git, Jenkins, Docker, JUnit, and Mockito.
+<br />
+<br />
+
+Working across different industries and teams has also strengthened my communication, adaptability, and ability to understand complex business requirements. I believe strong backend engineering is not only about writing code, but also about understanding the system, communicating clearly, identifying risks, and delivering solutions that remain reliable in production.
+
+# Outside of Engineering
+
+Outside of software development, I enjoy:
+
+- Playing musical instruments
+- Strength training and fitness
+- Traveling and exploring new cultures
+- Aviation and aircraft
 - Photography
-- Building products that genuinely help people
+- Building practical products that solve real problems

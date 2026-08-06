@@ -5,38 +5,37 @@ const References = () => (
   <div className="references">
     <div className="link-to" id="references" />
     <div className="title">
-      <h2>My Skills</h2>
+      <h2>Technical Skills</h2>
+
       <ul style={{ columns: 2, columnGap: '2rem' }}>
-        <li>Java - Java EE</li>
-        <li>Spring Framework</li>
-        <li>Spring Boot & MVC</li>
+        <li>Java 11 / 17 / 21</li>
+        <li>Spring Boot & Spring Framework</li>
+        <li>Microservices Architecture</li>
+        <li>System Design & Software Architecture</li>
+        <li>REST API Design & Development</li>
+        <li>Apache Kafka & Event-Driven Systems</li>
+        <li>SQL & Relational Database Design</li>
+        <li>PostgreSQL & MySQL</li>
+        <li>Spring Data JPA & Hibernate</li>
         <li>Spring Security</li>
-        <li>Spring AI</li>
-        <li>Reactive Spring</li>
-        <li>Unit & Integration Testing</li>
-        <li>Microservices</li>
-        <li>Hibernate</li>
-        <li>MapStruct</li>
-        <li>MySQL Database</li>
-        <li>NoSQL Databases</li>
+        <li>External System Integrations</li>
+        <li>Distributed Application Fundamentals</li>
         <li>MongoDB</li>
-        <li>PostgreSQL</li>
-        <li>Flyway / Liquibase</li>
-        <li>Neo4j</li>
-        <li>Kafka</li>
-        <li>Event-driven architecture</li>
-        <li>CI/CD</li>
-        <li>REST & gRPC Integrations</li>
-        <li>Git / GitHub</li>
-        <li>Bitbucket</li>
-        <li>Jira / AGILE</li>
-        <li>Maven</li>
+        <li>JUnit, Mockito & Integration Testing</li>
+        <li>Database Migrations with Flyway / Liquibase</li>
         <li>Docker</li>
-        <li>Rust</li>
-        <li>Axum, Tokio, Tonic</li>
+        <li>Jenkins & CI/CD</li>
+        <li>Maven</li>
+        <li>Git, GitHub & Bitbucket</li>
+        <li>Agile Development & Jira</li>
+        <li>MapStruct</li>
+        <li>JasperReports</li>
+        <li>gRPC Integrations</li>
+        <li>Rust Backend Development</li>
       </ul>
+
       <Link to="/contact">
-        <h3>For more details, feel free to contact me</h3>
+        <h3>Interested in working together? Get in touch</h3>
       </Link>
     </div>
   </div>

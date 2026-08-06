@@ -6,27 +6,33 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      'Emir Totić personal website. '
-      + 'Hi, I’m Emir - a backend engineer specializing in Java, Spring Boot, and distributed systems. I work on transaction-heavy, high-reliability platforms, and I enjoy building systems where performance, stability, and clean architecture truly matter.'
+      'Emir Totić is a Senior Java Backend Developer with 5+ years of experience '
+      + 'building enterprise applications, distributed systems, external integrations, '
+      + 'and transaction-heavy backend platforms using Java, Spring Boot, Kafka, and SQL.'
     }
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2>
-            <Link to="/">Welcome to my portfolio site</Link>
+            <Link to="/">Hello, I’m Emir Totić</Link>
           </h2>
           <p>
-            Here you’ll find a selection of my work, background, and experience.
+            Senior Java Backend Developer
           </p>
         </div>
       </header>
+
       <p>
-        {' '}
-        Thank you for visiting my portfolio site. Feel free to discover more {' '}
-        <Link to="/about">about me</Link>, or you can check out my{' '}
-        <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link> or{' '}
-        <Link to="/contact">contact</Link> me.
+        I’m a backend engineer with 6+ years of experience building and maintaining
+        reliable enterprise applications, external integrations and transaction-heavy
+        systems using Java, Spring Boot, Kafka and SQL. My experience spans telecom,
+        banking, healthcare, travel and gaming platforms, with a strong focus on clean
+        architecture, system reliability and production-ready solutions. Learn more{' '}
+        <Link to="/about">about me</Link>, explore my{' '}
+        <Link to="/resume">professional experience</Link>, review my{' '}
+        <Link to="/projects">projects</Link> or{' '}
+        <Link to="/contact">get in touch</Link>.
       </p>
     </article>
   </Main>
