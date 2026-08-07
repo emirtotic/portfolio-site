@@ -39,7 +39,7 @@ Working across different industries and teams has also strengthened my communica
 Outside of software development, I enjoy:
 
 - Playing musical instruments
-- Strength training, sports and fitness
+- Strength training and fitness
 - Traveling and exploring new cultures
 - Aviation and aircraft
 - Photography
