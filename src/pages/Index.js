@@ -6,7 +6,7 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      'Emir Totić is a Senior Java Backend Developer with 5+ years of experience '
+      'Emir Totić is a Senior Java Backend Developer with 6+ years of experience '
       + 'building enterprise applications, distributed systems, external integrations, '
       + 'and transaction-heavy backend platforms using Java, Spring Boot, Kafka, and SQL.'
     }

@@ -11,7 +11,7 @@ const BASE_URL = 'https://emirtotic.github.io/portfolio-site';
 
 const DEFAULT_TITLE = 'Emir Totić | Senior Java Backend Developer';
 
-const DEFAULT_DESCRIPTION = 'Emir Totić is a Senior Java Backend Developer with 5+ years of '
+const DEFAULT_DESCRIPTION = 'Emir Totić is a Senior Java Backend Developer with 6+ years of '
   + 'experience building enterprise applications, REST APIs, external '
   + 'integrations, Kafka-based workflows, and backend systems using '
   + 'Java, Spring Boot, SQL, PostgreSQL, and MySQL.';
@@ -66,7 +66,7 @@ const Main = (props) => {
       image: socialImage,
       jobTitle: 'Senior Java Backend Developer',
       description:
-        'Java backend engineer with 5+ years of professional experience '
+        'Java backend engineer with 6+ years of professional experience '
         + 'building enterprise applications, backend integrations, '
         + 'REST APIs, Kafka workflows, and database-driven systems.',
       sameAs: [
