@@ -13,6 +13,24 @@
  */
 const work = [
   {
+    name: 'Crassus',
+    position: 'Part-Time Backend Engineer',
+    startDate: '2025-01-09',
+    summary: 'Real-time online casino platform supporting multiple casino brands, game providers, and transactional wallet integrations',
+    highlights: [
+      'Developed and maintained backend wallet and game-provider integrations for a multi-brand online casino platform supporting AllBritishCasino, PubCasino, CasinoCasino, FunCasino, YetiCasino, HyperCasino, RaceCasino, NoBonusCasino, Quickbet Co UK, and additional casino brands.',
+      'Integrated external gaming providers including Hacksaw, NYX, Evolution, GamingCorps, IGT, Awager, and others, adapting provider-specific APIs and transaction models into a consistent internal wallet flow.',
+      'Implemented real-time transactional gameplay flows including bet, win, rollback, free-spin, settlement, and player balance operations.',
+      'Built idempotency and transaction-state handling to prevent duplicate bets, repeated settlements, and inconsistent wallet updates caused by retried provider requests.',
+      'Monitored live gaming and wallet activity, investigated failed or inconsistent game rounds, and resolved balance discrepancies caused by interrupted or incorrectly settled transactions.',
+      'Maintained player balance consistency across casino sessions and external provider interactions, including manual investigation and reconciliation of problematic transactions when required.',
+      'Implemented provider-specific handling for free-spin, bonus, payout, and settlement flows where external providers used different gameplay and transaction protocols.',
+      'Investigated production incidents using application logs and transactional data to identify integration failures, provider errors, incomplete settlements, and inconsistent wallet states.',
+      'Developed backend functionality in Java using Spring Boot, Rust using Tokio, Tonic, Axum, MongoDB, Neo4j, and structured tracing.',
+      'Contributed to staging and production deployments and supported the reliability of transaction-heavy integrations across multiple casino brands and gaming providers.',
+    ],
+  },
+  {
     name: 'Hyperoptic',
     position: 'Java Backend Engineer',
     url: 'https://hyperoptic.com',
