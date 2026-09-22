@@ -20,7 +20,7 @@ const sections = {
   Education: () => <Education data={degrees} />,
   // Skills: () => <Skills skills={skills} categories={categories} />,
   // Courses: () => <Courses data={courses} />,
-  References: () => <References />,
+  Skills: () => <References />,
 };
 
 const Resume = () => (

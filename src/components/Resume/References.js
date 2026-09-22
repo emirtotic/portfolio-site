@@ -8,7 +8,7 @@ const References = () => (
       <h2>Technical Skills</h2>
 
       <ul style={{ columns: 2, columnGap: '2rem' }}>
-        <li>Java 11 / 17 / 21</li>
+        <li>Java 11 / 17 / 21 / 27</li>
         <li>Spring Boot & Spring Framework</li>
         <li>Microservices Architecture</li>
         <li>System Design & Software Architecture</li>
@@ -19,7 +19,7 @@ const References = () => (
         <li>Spring Data JPA & Hibernate</li>
         <li>Spring Security</li>
         <li>External System Integrations</li>
-        <li>Distributed Application Fundamentals</li>
+        <li>Distributed Systems</li>
         <li>MongoDB</li>
         <li>JUnit, Mockito & Integration Testing</li>
         <li>Database Migrations with Flyway / Liquibase</li>
